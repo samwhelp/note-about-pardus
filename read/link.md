@@ -30,6 +30,17 @@ has_children: true
 
 
 
+## pardus-installer
+
+| Link |
+| ---- |
+| GitHub / pardus / [pardus-installer](https://github.com/pardus/pardus-installer) |
+| GitHub / 17g-installer / [17g](https://github.com/17g-installer/17g) |
+| GitHub / linuxmint / [live-installer](https://github.com/linuxmint/live-installer) |
+
+
+
+
 ## Just the Docs
 
 * [Just the Docs](https://pmarsceill.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
