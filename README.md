@@ -14,6 +14,7 @@
 
 * [微調腳本](#微調腳本)
 * [Pardus Respin](#pardus-respin)
+* [Debian Packaging](#debian-packaging)
 * [相關筆記](#相關筆記)
 
 
@@ -35,6 +36,17 @@
 | ---- | ------ |
 | [Pardus Xfce 探索筆記](https://samwhelp.github.io/note-about-pardus-xfce/) | [GitHub](https://github.com/samwhelp/note-about-pardus-xfce) |
 | [Pardus Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-pardus-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-pardus-gnome-shell) |
+
+
+
+
+## Debian Packaging
+
+| Debian Packaging |
+| ---------------- |
+| [pacstall-packaging](https://github.com/samwhelp/pacstall-packaging) |
+| [deb-coffee](https://github.com/samwhelp/deb-coffee) |
+| [deb-recipe](https://github.com/samwhelp/deb-recipe) |
 
 
 
