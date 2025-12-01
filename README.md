@@ -61,6 +61,7 @@
 | [Lmde 探索筆記](https://samwhelp.github.io/note-about-lmde/) | [GitHub](https://github.com/samwhelp/note-about-lmde) |
 | [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
 | [ArchLinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
+| [Manjaro 探索筆記](https://samwhelp.github.io/note-about-manjaro/) | [GitHub](https://github.com/samwhelp/note-about-manjaro) |
 
 
 
