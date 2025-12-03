@@ -11,7 +11,9 @@ parent: ISO
 
 
 
-## Pardus 25 (Debian 13)
+## Pardus 25
+
+> `Pardus 25` based on `Debian 13`
 
 * Pardus / [Pardus 25.0 Release Note](https://pardus.org.tr/en/pardus-25-release-note/)
 * Pardus / [Download](https://pardus.org.tr/en/download/)
