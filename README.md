@@ -86,7 +86,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
-| [MxLinux 探索筆記](https://samwhelp.github.io/note-about-malinux/) | [GitHub](https://github.com/samwhelp/note-about-malinux) |
+| [MxLinux 探索筆記](https://samwhelp.github.io/note-about-mxlinux/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux) |
 | [EznixOS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) | [GitHub](https://github.com/samwhelp/note-about-eznixos) |
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 | [LinuxMint 探索筆記](https://samwhelp.github.io/note-about-linuxmint/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint) |
