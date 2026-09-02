@@ -6,6 +6,7 @@
 | ---- | ------ |
 | [Pardus Adjustment](https://samwhelp.github.io/pardus-adjustment/) | [GitHub](https://github.com/samwhelp/pardus-adjustment) |
 | [Pardus 探索筆記](https://samwhelp.github.io/note-about-pardus/) | [GitHub](https://github.com/samwhelp/note-about-pardus) |
+| [Pardus ISO Builder 探索筆記](https://samwhelp.github.io/note-about-pardus-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-pardus-iso-builder) |
 
 
 
